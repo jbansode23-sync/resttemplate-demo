@@ -1,0 +1,8 @@
+server:
+  port: 8099
+  
+demo:
+  resttemplate:
+    employee:
+      host.url: 'http://localhost:8999/employee'
+      all-employee-uri: /all
